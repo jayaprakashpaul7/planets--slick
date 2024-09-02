@@ -1,0 +1,17 @@
+/* Write your CSS here */
+.slide-c {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/planets-app/planets-bg-img.png');
+  background-size: cover;
+  height: 100%;
+  padding: 30px;
+}
+h1 {
+  text-align: center;
+  color: aliceblue;
+}
+p {
+  color: aliceblue;
+  line-height: 20px;
+  text-align: center;
+  width: 500px;
+}
